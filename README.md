@@ -22,3 +22,16 @@ This project demonstrates each stage from data ingestion to processing and final
 <img width="3274" height="1221" alt="Data engineering architecture" src="images/Data engineering architecture.png" />
 
 
+## Getting started
+
+```bash
+docker compose up
+```
+
+```python
+python spark_stream.py
+```
+
+## Current state
+- Project runs normally with python ```python spark_stream.py```
+- **To do next**: Fixing bugs on ```spark-submit --master spark://localhost:7077 spark_stream.py```
