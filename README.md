@@ -19,6 +19,6 @@ This project demonstrates each stage from data ingestion to processing and final
 - Apache Spark
 - Cassandra
 
-<img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/67aedf50-b750-4781-a064-5629b492dc5c" />
+<img width="3274" height="1221" alt="Data engineering architecture" src="images/Data engineering architecture.png" />
 
 
